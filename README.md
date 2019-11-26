@@ -7,10 +7,10 @@ introductions to the material and only last ~10-30 minutes. These lessons I
 generally didn't take notes on. Other lessons cover complex topics and may take 
 several hours to complete. These lessons I took extensive notes on.
 
-Lessons:
+## Lessons:
 * [X] Lesson 1-2: Introduction to the course
   * No notes for these lessons
-* [X] [Lesson 3](Lesson03): Introduction to neural networks
+* [X] [Lesson 3](Lesson03/): Introduction to neural networks
   * [My Notes](Lesson03/notes/Lesson03_Intro-To-Neural-Networks.pdf)
 * [X] Lesson 4: Interview with the creator of PyTorch
   * No notes for this lesson
