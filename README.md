@@ -1,4 +1,12 @@
-This repository contains my notes, scripts, and projects from the **Bertelsmann AI Track** challenge (phase 1). 
+# <p style="text-align: center;">TIME REMAINING IN PHASE 1*</p>
+<!-- Display the countdown timer -->
+<p style="text-align: center; font-size: 60px; margin-top: 0px; margin-bottom: 0px;"><a href="https://sites.google.com/udacity.com/bertelsmann-challenge/ai-track" id="demo"></a></p>
+<script src="countdown.js"></script>
+
+<p style="font-size: 10px; text-align:center;">* until March 5, 2020 00:00:00 PST</p>
+
+## Welcome!
+This repository contains my notes, scripts, and projects from the **Bertelsmann AI Track** challenge (phase 1).
 
 ## A note about the lessons:
 Each lesson in this course is not created equal. Some of the lessons are simple introductions to the material and only last ~10-30 minutes. These lessons I generally didn't take notes on. Other lessons cover complex topics and may take several hours to complete. These lessons I took extensive notes on.
