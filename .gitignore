@@ -1,2 +1,8 @@
 # Ignore all vscode stuff
 **/.vscode
+
+# Ignore Mac specific stuff
+**/.DS_Store
+
+# Intermediate cpython stuff
+**/*.pyc
