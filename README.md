@@ -1,10 +1,3 @@
-# <p style="text-align: center;">TIME REMAINING IN PHASE 1*</p>
-<!-- Display the countdown timer -->
-<p style="text-align: center; font-size: 60px; margin-top: 0px; margin-bottom: 0px;"><a href="https://sites.google.com/udacity.com/bertelsmann-challenge/ai-track" id="demo"></a></p>
-<script src="countdown.js"></script>
-
-<p style="font-size: 10px; text-align:center;">* until March 5, 2020 00:00:00 PST</p>
-
 ## Welcome!
 This repository contains my notes, scripts, and projects from the **Bertelsmann AI Track** challenge (phase 1).
 
