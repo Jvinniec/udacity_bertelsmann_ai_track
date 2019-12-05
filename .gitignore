@@ -6,3 +6,4 @@
 
 # Intermediate cpython stuff
 **/*.pyc
+**/.ipynb_checkpoints
