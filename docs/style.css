@@ -1,0 +1,14 @@
+
+p {
+    font-family: 'Arial';
+}
+a {
+    font-family: 'Arial';
+}
+#clock {
+    font-size: 60px;
+    font-family: Courier, monospace;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font: bolder;
+}
