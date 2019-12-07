@@ -7,3 +7,6 @@
 # Intermediate cpython stuff
 **/*.pyc
 **/.ipynb_checkpoints
+
+# Random files and directories
+**/Lesson05/scripts/Cat_Dog_data
