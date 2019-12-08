@@ -13,7 +13,8 @@ Each lesson in this course is not created equal. Some of the lessons are simple 
   * [My Notes](Lesson03/notes/Lesson03_Intro-To-Neural-Networks.pdf)
 * [X] Lesson 4: Interview with the creator of PyTorch
   * No notes for this lesson
-* [ ] [Lesson 5](Lesson05/): Introduction to PyTorch (hands on)
+* [x] [Lesson 5](Lesson05/): Introduction to PyTorch (hands on)
+  * [My Notes](Lesson05/notes/Lesson05_Introduction-To-PyTorch.pdf)
 * [ ] Lesson 6: Convolutional Neural Networks (CNNs)
 * [ ] Lesson 7: Style Transfer
 * [ ] Lesson 8: Recurrent Neural Networks (RNNs)
