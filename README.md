@@ -22,5 +22,9 @@ Each lesson in this course is not created equal. Some of the lessons are simple 
 * [ ] Lesson 10: Deploying PyTorch models
 * [ ] Lesson 11: Challenge course wrap up
 
+## Projects
+The [projects](projects/) folder contains various projects that I've attempted as part of this course.
+* [Titanic (Kaggle)](projects/Titanic/)
+
 ## A note about images in notebooks
 I run the notebooks on my personal machine within Visual Studio Code (VSCode). There is currently a bug that prevents images from properly displaying in jupyter notebooks in VSCode. I'll try to rerun the notebooks in the future when the bug is resolved.
