@@ -17,7 +17,8 @@ Each lesson in this course is not created equal. Some of the lessons are simple 
   * [My Notes](Lesson05/notes/Lesson05_Introduction-To-PyTorch.pdf)
 * [x] [Lesson 6](Lesson06/): Convolutional Neural Networks (CNNs)
   * [My Notes](Lesson06/notes/Lesson06_Convolutional_Neural_Networks.pdf)
-* [ ] Lesson 7: Style Transfer
+* [x] [Lesson 7](Lesson07/): Style Transfer
+  * [My Notes](Lesson07/notes/Lesson07_Style_Transfer.pdf) 
 * [ ] Lesson 8: Recurrent Neural Networks (RNNs)
 * [ ] Lesson 9: Sentiment prediction with RNNs
 * [ ] Lesson 10: Deploying PyTorch models
